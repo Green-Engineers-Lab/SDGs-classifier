@@ -36,12 +36,12 @@ Install all necessary packages using the provided `requirements.txt` file.
 pip install -r requirements.txt
 ```
 
-**4. Download Required NLP Models
-# SpaCy model 
+**4. Download Required NLP Models**
+## SpaCy model 
 ```bash
 python -m spacy download en_core_web_sm 
 ```
-# NLTK stopwords 
+## NLTK stopwords 
 ```bash
 python -c "import nltk; nltk.download('stopwords')"
 ```
