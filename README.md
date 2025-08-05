@@ -12,6 +12,7 @@ This project provides a highly generalizable, fine-tuned LUKE model for classify
 ---
 ## :hammer_and_wrench: Installation & Setup
 Follow these steps to set up the environment and get ready to run the code.
+
 **1. Clone the Repository**
 ```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
