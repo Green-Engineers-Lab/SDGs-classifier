@@ -37,11 +37,11 @@ pip install -r requirements.txt
 ```
 
 **4. Download Required NLP Models**
-### SpaCy model 
+#### SpaCy model 
 ```bash
 python -m spacy download en_core_web_sm 
 ```
-### NLTK stopwords 
+#### NLTK stopwords 
 ```bash
 python -c "import nltk; nltk.download('stopwords')"
 ```
@@ -96,7 +96,6 @@ If you use this code or our model in your research, please cite our paper:
 ---
 ## :page_facing_up: License
 This project is licensed under the [Apache 2.0](LICENSE.md).
----
 ## :e-mail: Contact
 For any questions, please contact the corresponding author:
 **Takanori Matsui** (matsui@see.eng.osaka-u.ac.jp)
