@@ -35,11 +35,18 @@ Install all necessary packages using the provided `requirements.txt` file.
 ```bash
 pip install -r requirements.txt
 ```
-**4. Download SpaCy English Model**
-The code uses a SpaCy model for some text processing tasks. Download it with the following command:
+
+# 4. Download Required NLP Models
+# SpaCy model 
 ```bash
-python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_sm 
 ```
+# NLTK stopwords 
+```bash
+python -c "import nltk; nltk.download('stopwords')"
+```
+# NLTK stopwords python -c "import nltk; nltk.download('stopwords')"
+
 ---
 ## :computer: Usage
 This script has two main modes: prediction with our pre-trained model and training a new model from scratch.
