@@ -50,7 +50,7 @@ Simply execute the Python script from your terminal:
 python sdgs_classifier_20250218.py
 ```
 The script will download the model, run the predictions, and print the detected SDGs for each text to the console.
-### :man-lifting-weights: Training a New Model
+###  :weight_lifting_woman: Training a New Model
 To reproduce our training results or train the model on your own data, follow these steps.
 **1. Prepare the Training Data**
 The training corpus used in our paper is not included in this repository due to the terms of use of the original data sources.
