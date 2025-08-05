@@ -84,7 +84,7 @@ If you use this code or our model in your research, please cite our paper:
 ```
 ---
 ## :page_facing_up: License
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [Apache 2.0](LICENSE.md).
 ---
 ## :e-mail: Contact
 For any questions, please contact the corresponding author:
