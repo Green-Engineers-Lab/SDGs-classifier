@@ -50,11 +50,11 @@ Simply execute the Python script from your terminal:
 python sdgs_classifier_20250218.py
 ```
 The script will download the model, run the predictions, and print the detected SDGs for each text to the console.
-### :woman-lifting-weights: Training a New Model
+### :man-lifting-weights: Training a New Model
 To reproduce our training results or train the model on your own data, follow these steps.
 **1. Prepare the Training Data**
 The training corpus used in our paper is not included in this repository due to the terms of use of the original data sources.
-To train the model, you must first reconstruct the corpus by following the detailed protocol provided in **Supplementary Information S4** of our paper. This process should result in a pandas DataFrame saved as a pickle file at the following location: `data/corpus.pkl`.
+To train the model, you must first reconstruct the corpus by following the detailed protocol provided in **Supplementary Information S1** of our paper. This process should result in a pandas DataFrame saved as a pickle file at the following location: `data/corpus.pkl`.
 **2. Modify the Script for Training**
 Open `sdgs_classifier_20250218.py` and at the very bottom of the file, uncomment the line to run the training pipeline:
 ```python
