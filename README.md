@@ -16,7 +16,7 @@ Follow these steps to set up the environment and get ready to run the code.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/Green-Engineers-Lab/SDGs-classifier/](https://github.com/Green-Engineers-Lab/SDGs-classifier/)
+git clone <https://github.com/Green-Engineers-Lab/SDGs-classifier/> [destination_directory]
 cd SDGs-classifier
 ```
 **2. Create a Python Virtual Environment**
