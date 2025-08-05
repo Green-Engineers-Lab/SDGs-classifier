@@ -44,6 +44,7 @@ python -m spacy download en_core_web_sm
 This script has two main modes: prediction with our pre-trained model and training a new model from scratch.
 ### :crystal_ball: Prediction with the Pre-trained Model (Default)
 This is the easiest way to get started. Our fine-tuned model weights (`best_model.pt`) will be automatically downloaded from the Hugging Face Hub.
+
 **1. Prepare your input**
 Open the `sdgs_classifier_20250218.py` file and modify the `texts_to_predict` list inside the `run_prediction_example` function with the texts you want to classify.
 **2. Run the Script**
