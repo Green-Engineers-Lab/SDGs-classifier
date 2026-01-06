@@ -85,6 +85,18 @@ python sdgs_classifier_20250218.py
 ## :scroll: Citation
 If you use this code or our model in your research, please cite our paper:
 ```bibtex
+@article{Matsui2022,
+  title={A natural language processing model for supporting sustainable development goals: translating semantics, visualizing nexus, and connecting stakeholders},
+  author={Matsui, Takanori and Suzuki, Kanoko and Ando, Kyota and Kitai, Yuya and Haga, Chihiro and Masuhara, Naoki and Kawakubo, Shun},
+  journal={Sustainability Science},
+  volume={17},
+  number={3},
+  pages={969--985},
+  year={2022},
+  doi={10.1007/s11625-022-01093-3},
+  publisher={Springer}
+}
+
 @article{Miyashita2025,
   author    = {Naoto Miyashita and Takanori Matsui and Chihiro Haga and Naoki Masuhara and Shun Kawakubo},
   title     = {Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research},
