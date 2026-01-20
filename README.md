@@ -85,6 +85,16 @@ python sdgs_classifier_20250218.py
 ## :scroll: Citation
 If you use this code or our model in your research, please cite our paper:
 ```bibtex
+@article{Miyashita2026,
+  title        = {Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research},
+  author       = {Miyashita, N. and Matsui, T. and Haga, C. and Masuhara, N. and Kawakubo, S.},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18309569},
+  url          = {https://doi.org/10.5281/zenodo.18309569},
+  note         = {Preprint}
+}
+
 @article{Matsui2022,
   title={A natural language processing model for supporting sustainable development goals: translating semantics, visualizing nexus, and connecting stakeholders},
   author={Matsui, Takanori and Suzuki, Kanoko and Ando, Kyota and Kitai, Yuya and Haga, Chihiro and Masuhara, Naoki and Kawakubo, Shun},
@@ -97,13 +107,6 @@ If you use this code or our model in your research, please cite our paper:
   publisher={Springer}
 }
 
-@article{Miyashita2025,
-  author    = {Naoto Miyashita and Takanori Matsui and Chihiro Haga and Naoki Masuhara and Shun Kawakubo},
-  title     = {Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research},
-  journal   = {Sustainability Science},
-  year      = {2025},
-  % Add Volume, Pages, DOI upon publication
-}
 ```
 ---
 ## :page_facing_up: License
