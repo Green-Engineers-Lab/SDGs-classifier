@@ -3,6 +3,9 @@
 
 :arrow_right: **Paper Link:** [Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research](https://doi.org/10.5281/zenodo.18309569)
 
+:arrow_right: **Model Link:** [SDG Classifier: A Fine-Tuned LUKE Model for Multi-Label SDG Classification ]([https://doi.org/10.5281/zenodo.18309569](https://huggingface.co/GE-Lab/SDGs-classifier/blob/main/README.md))
+
+
 This project provides a highly generalizable, fine-tuned LUKE model for classifying text into the 17 UN Sustainable Development Goals (SDGs). It is designed to help researchers, policymakers, and organizations analyze and map SDG-related content in a robust and automated way.
 
 ## :rocket: Features
