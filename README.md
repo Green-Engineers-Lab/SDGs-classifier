@@ -1,7 +1,7 @@
 # Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach
 **This repository contains the official code and pre-trained model for the paper: **"Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research"**.
 
-:arrow_right: **Paper Link:** [Link to Published Paper will be added upon publication]
+:arrow_right: **Paper Link:** [Bridging the Sustainable Development Goals: A Multi-Label Text Classification Approach for Mapping and Visualizing Nexuses in Sustainability Research](https://doi.org/10.5281/zenodo.18309569)
 
 This project provides a highly generalizable, fine-tuned LUKE model for classifying text into the 17 UN Sustainable Development Goals (SDGs). It is designed to help researchers, policymakers, and organizations analyze and map SDG-related content in a robust and automated way.
 
